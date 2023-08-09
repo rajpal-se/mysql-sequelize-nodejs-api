@@ -1,4 +1,4 @@
-## How to Start MySQL Server
+## How to Start MySQL Server?
 
 To Start the MySQL Server
 
@@ -22,3 +22,12 @@ PORT: 6000
 USER: root
 PASSWORD: Password#12345
 ```
+
+## How to start the project?
+
+First open the terminal in the root folder of project.
+```bash
+npm install
+npm start
+```
+**Note:** The server will run at http://localhost:5010/
